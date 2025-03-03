@@ -12,7 +12,7 @@ export const Navbar=({menuOpen, setMenuOpen})=>{
                 <div className="flex justify-between item-center h-16">
                 
                     <a href="#home" className="text-xl font-bold text-white font-mono flex items-center">
-                            pedro<span className="text-blue-500">.tech</span>
+                            Nilupul<span className="text-blue-500">.Tharanga</span>
                     </a>
 
                     {!menuOpen && (
