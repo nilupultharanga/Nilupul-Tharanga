@@ -27,7 +27,7 @@ export const Project =()=>{
                                 </div>
                                 <div className="flex justify-between items-center">
                                     <a 
-                                    href="#"
+                                    href="https://github.com/nilupultharanga/chat-app"
                                     className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                                         {" "}
                                         View Project »
@@ -52,7 +52,7 @@ export const Project =()=>{
                                 </div>
                                 <div className="flex justify-between items-center">
                                     <a 
-                                    href="#"
+                                    href="https://github.com/nilupultharanga/Netflix-clone"
                                     className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                                         {" "}
                                         View Project »
@@ -77,7 +77,7 @@ export const Project =()=>{
                                 </div>
                                 <div className="flex justify-between items-center">
                                     <a 
-                                    href="#"
+                                    href="https://github.com/nilupultharanga/sentiment-analysis-for-mental-health"
                                     className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                                         {" "}
                                         View Project »
@@ -102,7 +102,7 @@ export const Project =()=>{
                                 </div>
                                 <div className="flex justify-between items-center">
                                     <a 
-                                    href="#"
+                                    href="https://github.com/nilupultharanga/text-to-speech-converter"
                                     className="text-blue-400 hover:text-blue-300 transition-colors my-4">
                                         {" "}
                                         View Project »
